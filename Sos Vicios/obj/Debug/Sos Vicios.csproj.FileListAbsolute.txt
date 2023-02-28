@@ -1,0 +1,312 @@
+C:\Users\gabriel.ssilva155\source\repos\Sos Vicios\Sos Vicios\bin\Debug\Sos Vicios.exe.config
+C:\Users\gabriel.ssilva155\source\repos\Sos Vicios\Sos Vicios\bin\Debug\Sos Vicios.exe
+C:\Users\gabriel.ssilva155\source\repos\Sos Vicios\Sos Vicios\bin\Debug\Sos Vicios.pdb
+C:\Users\gabriel.ssilva155\source\repos\Sos Vicios\Sos Vicios\obj\Debug\Sos Vicios.csproj.AssemblyReference.cache
+C:\Users\gabriel.ssilva155\source\repos\Sos Vicios\Sos Vicios\obj\Debug\Sos_Vicios.Properties.Resources.resources
+C:\Users\gabriel.ssilva155\source\repos\Sos Vicios\Sos Vicios\obj\Debug\Sos_Vicios.frmSplash.resources
+C:\Users\gabriel.ssilva155\source\repos\Sos Vicios\Sos Vicios\obj\Debug\Sos Vicios.csproj.GenerateResource.cache
+C:\Users\gabriel.ssilva155\source\repos\Sos Vicios\Sos Vicios\obj\Debug\Sos Vicios.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.ssilva155\source\repos\Sos Vicios\Sos Vicios\obj\Debug\Sos Vicios.exe
+C:\Users\gabriel.ssilva155\source\repos\Sos Vicios\Sos Vicios\obj\Debug\Sos Vicios.pdb
+C:\Users\gabriel.ssilva155\Documents\Visual Studio 2019\Sos Vicios\Sos Vicios\bin\Debug\Sos Vicios.exe.config
+C:\Users\gabriel.ssilva155\Documents\Visual Studio 2019\Sos Vicios\Sos Vicios\bin\Debug\Sos Vicios.exe
+C:\Users\gabriel.ssilva155\Documents\Visual Studio 2019\Sos Vicios\Sos Vicios\bin\Debug\Sos Vicios.pdb
+C:\Users\gabriel.ssilva155\Documents\Visual Studio 2019\Sos Vicios\Sos Vicios\obj\Debug\Sos Vicios.csproj.AssemblyReference.cache
+C:\Users\gabriel.ssilva155\Documents\Visual Studio 2019\Sos Vicios\Sos Vicios\obj\Debug\Sos_Vicios.Properties.Resources.resources
+C:\Users\gabriel.ssilva155\Documents\Visual Studio 2019\Sos Vicios\Sos Vicios\obj\Debug\Sos Vicios.csproj.GenerateResource.cache
+C:\Users\gabriel.ssilva155\Documents\Visual Studio 2019\Sos Vicios\Sos Vicios\obj\Debug\Sos Vicios.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.ssilva155\Documents\Visual Studio 2019\Sos Vicios\Sos Vicios\obj\Debug\Sos Vicios.exe
+C:\Users\gabriel.ssilva155\Documents\Visual Studio 2019\Sos Vicios\Sos Vicios\obj\Debug\Sos Vicios.pdb
+C:\Users\gabriel.ssilva155\Documents\Visual Studio 2019\Sos Vicios\Sos Vicios\obj\Debug\Sos_Vicios.frmLogin.resources
+C:\Users\gabriel.ssilva155\Documents\Visual Studio 2019\Sos Vicios\Sos Vicios\obj\Debug\Sos_Vicios.frmOngs.resources
+C:\Users\gabriel.ssilva155\Documents\Visual Studio 2019\Sos Vicios\Sos Vicios\bin\Debug\MySqlConnector.dll
+C:\Users\gabriel.ssilva155\Documents\Visual Studio 2019\Sos Vicios\Sos Vicios\bin\Debug\System.Buffers.dll
+C:\Users\gabriel.ssilva155\Documents\Visual Studio 2019\Sos Vicios\Sos Vicios\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\gabriel.ssilva155\Documents\Visual Studio 2019\Sos Vicios\Sos Vicios\bin\Debug\System.Memory.dll
+C:\Users\gabriel.ssilva155\Documents\Visual Studio 2019\Sos Vicios\Sos Vicios\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\gabriel.ssilva155\Documents\Visual Studio 2019\Sos Vicios\Sos Vicios\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\gabriel.ssilva155\Documents\Visual Studio 2019\Sos Vicios\Sos Vicios\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\gabriel.ssilva155\Documents\Visual Studio 2019\Sos Vicios\Sos Vicios\bin\Debug\MySqlConnector.xml
+C:\Users\gabriel.ssilva155\Documents\Visual Studio 2019\Sos Vicios\Sos Vicios\bin\Debug\System.Buffers.xml
+C:\Users\gabriel.ssilva155\Documents\Visual Studio 2019\Sos Vicios\Sos Vicios\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\gabriel.ssilva155\Documents\Visual Studio 2019\Sos Vicios\Sos Vicios\bin\Debug\System.Memory.xml
+C:\Users\gabriel.ssilva155\Documents\Visual Studio 2019\Sos Vicios\Sos Vicios\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\gabriel.ssilva155\Documents\Visual Studio 2019\Sos Vicios\Sos Vicios\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\gabriel.ssilva155\Documents\Visual Studio 2019\Sos Vicios\Sos Vicios\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\gabriel.ssilva155\Documents\Visual Studio 2019\Sos Vicios\Sos Vicios\obj\Debug\Sos Vicios.csproj.CopyComplete
+C:\Users\gabriel.ssilva155\Documents\Visual Studio 2019\Sos Vicios\Sos Vicios\obj\Debug\Sos_Vicios.frmMenu.resources
+C:\Users\gabriel.ssilva155\Documents\Visual Studio 2019\Sos Vicios\Sos Vicios\obj\Debug\Sos_Vicios.frmPesquisar.resources
+C:\Users\erik.osantos\Desktop\Sos Vicios2\Sos Vicios\obj\Debug\Sos_Vicios.frmLogin.resources
+C:\Users\erik.osantos\Desktop\Sos Vicios2\Sos Vicios\obj\Debug\Sos_Vicios.frmOngs.resources
+C:\Users\erik.osantos\Desktop\Sos Vicios2\Sos Vicios\obj\Debug\Sos_Vicios.frmMenu.resources
+C:\Users\erik.osantos\Desktop\Sos Vicios2\Sos Vicios\obj\Debug\Sos_Vicios.frmPesquisar.resources
+C:\Users\erik.osantos\Desktop\Sos Vicios2\Sos Vicios\obj\Debug\Sos_Vicios.Properties.Resources.resources
+C:\Users\erik.osantos\Desktop\Sos Vicios2\Sos Vicios\obj\Debug\Sos Vicios.csproj.GenerateResource.cache
+C:\Users\erik.osantos\Desktop\Sos Vicios2\Sos Vicios\obj\Debug\Sos Vicios.csproj.CoreCompileInputs.cache
+C:\Users\erik.osantos\Desktop\Sos Vicios2\Sos Vicios\obj\Debug\Sos Vicios.pdb
+C:\Users\erik.osantos\Desktop\Sos Vicios2\Sos Vicios\bin\Debug\Sos Vicios.exe.config
+C:\Users\erik.osantos\Desktop\Sos Vicios2\Sos Vicios\bin\Debug\Sos Vicios.exe
+C:\Users\erik.osantos\Desktop\Sos Vicios2\Sos Vicios\bin\Debug\Sos Vicios.pdb
+C:\Users\erik.osantos\Desktop\Sos Vicios2\Sos Vicios\bin\Debug\MySqlConnector.dll
+C:\Users\erik.osantos\Desktop\Sos Vicios2\Sos Vicios\bin\Debug\System.Buffers.dll
+C:\Users\erik.osantos\Desktop\Sos Vicios2\Sos Vicios\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\erik.osantos\Desktop\Sos Vicios2\Sos Vicios\bin\Debug\System.Memory.dll
+C:\Users\erik.osantos\Desktop\Sos Vicios2\Sos Vicios\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\erik.osantos\Desktop\Sos Vicios2\Sos Vicios\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\erik.osantos\Desktop\Sos Vicios2\Sos Vicios\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\erik.osantos\Desktop\Sos Vicios2\Sos Vicios\bin\Debug\MySqlConnector.xml
+C:\Users\erik.osantos\Desktop\Sos Vicios2\Sos Vicios\bin\Debug\System.Buffers.xml
+C:\Users\erik.osantos\Desktop\Sos Vicios2\Sos Vicios\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\erik.osantos\Desktop\Sos Vicios2\Sos Vicios\bin\Debug\System.Memory.xml
+C:\Users\erik.osantos\Desktop\Sos Vicios2\Sos Vicios\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\erik.osantos\Desktop\Sos Vicios2\Sos Vicios\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\erik.osantos\Desktop\Sos Vicios2\Sos Vicios\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\erik.osantos\Desktop\Sos Vicios2\Sos Vicios\obj\Debug\Sos Vicios.csproj.CopyComplete
+C:\Users\erik.osantos\Desktop\Sos Vicios2\Sos Vicios\obj\Debug\Sos Vicios.exe
+C:\Users\erik.osantos\Documents\Visual Studio 2019\Sos Vicios2\Sos Vicios\bin\Debug\Sos Vicios.exe.config
+C:\Users\erik.osantos\Documents\Visual Studio 2019\Sos Vicios2\Sos Vicios\bin\Debug\Sos Vicios.exe
+C:\Users\erik.osantos\Documents\Visual Studio 2019\Sos Vicios2\Sos Vicios\bin\Debug\Sos Vicios.pdb
+C:\Users\erik.osantos\Documents\Visual Studio 2019\Sos Vicios2\Sos Vicios\bin\Debug\MySqlConnector.dll
+C:\Users\erik.osantos\Documents\Visual Studio 2019\Sos Vicios2\Sos Vicios\bin\Debug\System.Buffers.dll
+C:\Users\erik.osantos\Documents\Visual Studio 2019\Sos Vicios2\Sos Vicios\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\erik.osantos\Documents\Visual Studio 2019\Sos Vicios2\Sos Vicios\bin\Debug\System.Memory.dll
+C:\Users\erik.osantos\Documents\Visual Studio 2019\Sos Vicios2\Sos Vicios\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\erik.osantos\Documents\Visual Studio 2019\Sos Vicios2\Sos Vicios\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\erik.osantos\Documents\Visual Studio 2019\Sos Vicios2\Sos Vicios\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\erik.osantos\Documents\Visual Studio 2019\Sos Vicios2\Sos Vicios\bin\Debug\MySqlConnector.xml
+C:\Users\erik.osantos\Documents\Visual Studio 2019\Sos Vicios2\Sos Vicios\bin\Debug\System.Buffers.xml
+C:\Users\erik.osantos\Documents\Visual Studio 2019\Sos Vicios2\Sos Vicios\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\erik.osantos\Documents\Visual Studio 2019\Sos Vicios2\Sos Vicios\bin\Debug\System.Memory.xml
+C:\Users\erik.osantos\Documents\Visual Studio 2019\Sos Vicios2\Sos Vicios\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\erik.osantos\Documents\Visual Studio 2019\Sos Vicios2\Sos Vicios\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\erik.osantos\Documents\Visual Studio 2019\Sos Vicios2\Sos Vicios\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\erik.osantos\Documents\Visual Studio 2019\Sos Vicios2\Sos Vicios\obj\Debug\Sos Vicios.csproj.AssemblyReference.cache
+C:\Users\erik.osantos\Documents\Visual Studio 2019\Sos Vicios2\Sos Vicios\obj\Debug\Sos_Vicios.frmLogin.resources
+C:\Users\erik.osantos\Documents\Visual Studio 2019\Sos Vicios2\Sos Vicios\obj\Debug\Sos_Vicios.frmOngs.resources
+C:\Users\erik.osantos\Documents\Visual Studio 2019\Sos Vicios2\Sos Vicios\obj\Debug\Sos_Vicios.frmMenu.resources
+C:\Users\erik.osantos\Documents\Visual Studio 2019\Sos Vicios2\Sos Vicios\obj\Debug\Sos_Vicios.frmPesquisar.resources
+C:\Users\erik.osantos\Documents\Visual Studio 2019\Sos Vicios2\Sos Vicios\obj\Debug\Sos_Vicios.Properties.Resources.resources
+C:\Users\erik.osantos\Documents\Visual Studio 2019\Sos Vicios2\Sos Vicios\obj\Debug\Sos Vicios.csproj.GenerateResource.cache
+C:\Users\erik.osantos\Documents\Visual Studio 2019\Sos Vicios2\Sos Vicios\obj\Debug\Sos Vicios.csproj.CoreCompileInputs.cache
+C:\Users\erik.osantos\Documents\Visual Studio 2019\Sos Vicios2\Sos Vicios\obj\Debug\Sos Vicios.csproj.CopyComplete
+C:\Users\erik.osantos\Documents\Visual Studio 2019\Sos Vicios2\Sos Vicios\obj\Debug\Sos Vicios.exe
+C:\Users\erik.osantos\Documents\Visual Studio 2019\Sos Vicios2\Sos Vicios\obj\Debug\Sos Vicios.pdb
+C:\Users\gabriel.ssilva155\Documents\Visual Studio 2019\Sos Vicios2\Sos Vicios\bin\Debug\Sos Vicios.exe.config
+C:\Users\gabriel.ssilva155\Documents\Visual Studio 2019\Sos Vicios2\Sos Vicios\bin\Debug\Sos Vicios.exe
+C:\Users\gabriel.ssilva155\Documents\Visual Studio 2019\Sos Vicios2\Sos Vicios\bin\Debug\Sos Vicios.pdb
+C:\Users\gabriel.ssilva155\Documents\Visual Studio 2019\Sos Vicios2\Sos Vicios\bin\Debug\MySqlConnector.dll
+C:\Users\gabriel.ssilva155\Documents\Visual Studio 2019\Sos Vicios2\Sos Vicios\bin\Debug\System.Buffers.dll
+C:\Users\gabriel.ssilva155\Documents\Visual Studio 2019\Sos Vicios2\Sos Vicios\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\gabriel.ssilva155\Documents\Visual Studio 2019\Sos Vicios2\Sos Vicios\bin\Debug\System.Memory.dll
+C:\Users\gabriel.ssilva155\Documents\Visual Studio 2019\Sos Vicios2\Sos Vicios\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\gabriel.ssilva155\Documents\Visual Studio 2019\Sos Vicios2\Sos Vicios\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\gabriel.ssilva155\Documents\Visual Studio 2019\Sos Vicios2\Sos Vicios\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\gabriel.ssilva155\Documents\Visual Studio 2019\Sos Vicios2\Sos Vicios\bin\Debug\MySqlConnector.xml
+C:\Users\gabriel.ssilva155\Documents\Visual Studio 2019\Sos Vicios2\Sos Vicios\bin\Debug\System.Buffers.xml
+C:\Users\gabriel.ssilva155\Documents\Visual Studio 2019\Sos Vicios2\Sos Vicios\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\gabriel.ssilva155\Documents\Visual Studio 2019\Sos Vicios2\Sos Vicios\bin\Debug\System.Memory.xml
+C:\Users\gabriel.ssilva155\Documents\Visual Studio 2019\Sos Vicios2\Sos Vicios\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\gabriel.ssilva155\Documents\Visual Studio 2019\Sos Vicios2\Sos Vicios\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\gabriel.ssilva155\Documents\Visual Studio 2019\Sos Vicios2\Sos Vicios\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\gabriel.ssilva155\Documents\Visual Studio 2019\Sos Vicios2\Sos Vicios\obj\Debug\Sos Vicios.csproj.AssemblyReference.cache
+C:\Users\gabriel.ssilva155\Documents\Visual Studio 2019\Sos Vicios2\Sos Vicios\obj\Debug\Sos_Vicios.frmLogin.resources
+C:\Users\gabriel.ssilva155\Documents\Visual Studio 2019\Sos Vicios2\Sos Vicios\obj\Debug\Sos_Vicios.frmOngs.resources
+C:\Users\gabriel.ssilva155\Documents\Visual Studio 2019\Sos Vicios2\Sos Vicios\obj\Debug\Sos_Vicios.frmMenu.resources
+C:\Users\gabriel.ssilva155\Documents\Visual Studio 2019\Sos Vicios2\Sos Vicios\obj\Debug\Sos_Vicios.frmPesquisar.resources
+C:\Users\gabriel.ssilva155\Documents\Visual Studio 2019\Sos Vicios2\Sos Vicios\obj\Debug\Sos_Vicios.Properties.Resources.resources
+C:\Users\gabriel.ssilva155\Documents\Visual Studio 2019\Sos Vicios2\Sos Vicios\obj\Debug\Sos Vicios.csproj.GenerateResource.cache
+C:\Users\gabriel.ssilva155\Documents\Visual Studio 2019\Sos Vicios2\Sos Vicios\obj\Debug\Sos Vicios.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.ssilva155\Documents\Visual Studio 2019\Sos Vicios2\Sos Vicios\obj\Debug\Sos Vicios.csproj.CopyComplete
+C:\Users\gabriel.ssilva155\Documents\Visual Studio 2019\Sos Vicios2\Sos Vicios\obj\Debug\Sos Vicios.exe
+C:\Users\gabriel.ssilva155\Documents\Visual Studio 2019\Sos Vicios2\Sos Vicios\obj\Debug\Sos Vicios.pdb
+C:\Users\gabriel.ssilva155\Documents\Visual Studio 2019\Sos Vicios2\Sos Vicios\obj\Debug\Sos_Vicios.Usuario.resources
+T:\Cursos Tecnicos\9900212653_TI104_T310123\SOS VICIOS PROJETO TI104\Sos Vicios2\Sos Vicios\obj\Debug\Sos Vicios.csproj.AssemblyReference.cache
+T:\Cursos Tecnicos\9900212653_TI104_T310123\SOS VICIOS PROJETO TI104\Sos Vicios2\Sos Vicios\obj\Debug\Sos_Vicios.Usuario.resources
+T:\Cursos Tecnicos\9900212653_TI104_T310123\SOS VICIOS PROJETO TI104\Sos Vicios2\Sos Vicios\obj\Debug\Sos_Vicios.frmLogin.resources
+T:\Cursos Tecnicos\9900212653_TI104_T310123\SOS VICIOS PROJETO TI104\Sos Vicios2\Sos Vicios\obj\Debug\Sos_Vicios.frmOngs.resources
+T:\Cursos Tecnicos\9900212653_TI104_T310123\SOS VICIOS PROJETO TI104\Sos Vicios2\Sos Vicios\obj\Debug\Sos_Vicios.frmMenu.resources
+T:\Cursos Tecnicos\9900212653_TI104_T310123\SOS VICIOS PROJETO TI104\Sos Vicios2\Sos Vicios\obj\Debug\Sos_Vicios.frmPesquisar.resources
+T:\Cursos Tecnicos\9900212653_TI104_T310123\SOS VICIOS PROJETO TI104\Sos Vicios2\Sos Vicios\obj\Debug\Sos_Vicios.Properties.Resources.resources
+T:\Cursos Tecnicos\9900212653_TI104_T310123\SOS VICIOS PROJETO TI104\Sos Vicios2\Sos Vicios\obj\Debug\Sos Vicios.csproj.GenerateResource.cache
+T:\Cursos Tecnicos\9900212653_TI104_T310123\SOS VICIOS PROJETO TI104\Sos Vicios2\Sos Vicios\obj\Debug\Sos Vicios.csproj.CoreCompileInputs.cache
+T:\Cursos Tecnicos\9900212653_TI104_T310123\SOS VICIOS PROJETO TI104\Sos Vicios2\Sos Vicios\obj\Debug\Sos Vicios.exe
+T:\Cursos Tecnicos\9900212653_TI104_T310123\SOS VICIOS PROJETO TI104\Sos Vicios2\Sos Vicios\obj\Debug\Sos Vicios.pdb
+C:\Users\erik.osantos\Documents\Visual Studio 2019\Sos Vicios2\Sos Vicios\obj\Debug\Sos_Vicios.Usuario.resources
+T:\Cursos Tecnicos\9900212653_TI104_T310123\SOS VICIOS PROJETO TI104\Sos Vicios2\Sos Vicios\bin\Debug\Sos Vicios.exe.config
+T:\Cursos Tecnicos\9900212653_TI104_T310123\SOS VICIOS PROJETO TI104\Sos Vicios2\Sos Vicios\bin\Debug\Sos Vicios.exe
+T:\Cursos Tecnicos\9900212653_TI104_T310123\SOS VICIOS PROJETO TI104\Sos Vicios2\Sos Vicios\bin\Debug\Sos Vicios.pdb
+T:\Cursos Tecnicos\9900212653_TI104_T310123\SOS VICIOS PROJETO TI104\Sos Vicios2\Sos Vicios\bin\Debug\MySqlConnector.dll
+T:\Cursos Tecnicos\9900212653_TI104_T310123\SOS VICIOS PROJETO TI104\Sos Vicios2\Sos Vicios\bin\Debug\System.Buffers.dll
+T:\Cursos Tecnicos\9900212653_TI104_T310123\SOS VICIOS PROJETO TI104\Sos Vicios2\Sos Vicios\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+T:\Cursos Tecnicos\9900212653_TI104_T310123\SOS VICIOS PROJETO TI104\Sos Vicios2\Sos Vicios\bin\Debug\System.Memory.dll
+T:\Cursos Tecnicos\9900212653_TI104_T310123\SOS VICIOS PROJETO TI104\Sos Vicios2\Sos Vicios\bin\Debug\System.Numerics.Vectors.dll
+T:\Cursos Tecnicos\9900212653_TI104_T310123\SOS VICIOS PROJETO TI104\Sos Vicios2\Sos Vicios\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+T:\Cursos Tecnicos\9900212653_TI104_T310123\SOS VICIOS PROJETO TI104\Sos Vicios2\Sos Vicios\bin\Debug\System.Threading.Tasks.Extensions.dll
+T:\Cursos Tecnicos\9900212653_TI104_T310123\SOS VICIOS PROJETO TI104\Sos Vicios2\Sos Vicios\bin\Debug\MySqlConnector.xml
+T:\Cursos Tecnicos\9900212653_TI104_T310123\SOS VICIOS PROJETO TI104\Sos Vicios2\Sos Vicios\bin\Debug\System.Buffers.xml
+T:\Cursos Tecnicos\9900212653_TI104_T310123\SOS VICIOS PROJETO TI104\Sos Vicios2\Sos Vicios\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+T:\Cursos Tecnicos\9900212653_TI104_T310123\SOS VICIOS PROJETO TI104\Sos Vicios2\Sos Vicios\bin\Debug\System.Memory.xml
+T:\Cursos Tecnicos\9900212653_TI104_T310123\SOS VICIOS PROJETO TI104\Sos Vicios2\Sos Vicios\bin\Debug\System.Numerics.Vectors.xml
+T:\Cursos Tecnicos\9900212653_TI104_T310123\SOS VICIOS PROJETO TI104\Sos Vicios2\Sos Vicios\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+T:\Cursos Tecnicos\9900212653_TI104_T310123\SOS VICIOS PROJETO TI104\Sos Vicios2\Sos Vicios\bin\Debug\System.Threading.Tasks.Extensions.xml
+T:\Cursos Tecnicos\9900212653_TI104_T310123\SOS VICIOS PROJETO TI104\Sos Vicios2\Sos Vicios\obj\Debug\Sos Vicios.csproj.CopyComplete
+C:\Users\daniel\Downloads\add-master\Sos Vicios\bin\Debug\Sos Vicios.exe.config
+C:\Users\daniel\Downloads\add-master\Sos Vicios\bin\Debug\Sos Vicios.exe
+C:\Users\daniel\Downloads\add-master\Sos Vicios\bin\Debug\Sos Vicios.pdb
+C:\Users\daniel\Downloads\add-master\Sos Vicios\bin\Debug\MySqlConnector.dll
+C:\Users\daniel\Downloads\add-master\Sos Vicios\bin\Debug\System.Buffers.dll
+C:\Users\daniel\Downloads\add-master\Sos Vicios\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\daniel\Downloads\add-master\Sos Vicios\bin\Debug\System.Memory.dll
+C:\Users\daniel\Downloads\add-master\Sos Vicios\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\daniel\Downloads\add-master\Sos Vicios\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\daniel\Downloads\add-master\Sos Vicios\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\daniel\Downloads\add-master\Sos Vicios\bin\Debug\MySqlConnector.xml
+C:\Users\daniel\Downloads\add-master\Sos Vicios\bin\Debug\System.Buffers.xml
+C:\Users\daniel\Downloads\add-master\Sos Vicios\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\daniel\Downloads\add-master\Sos Vicios\bin\Debug\System.Memory.xml
+C:\Users\daniel\Downloads\add-master\Sos Vicios\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\daniel\Downloads\add-master\Sos Vicios\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\daniel\Downloads\add-master\Sos Vicios\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\daniel\Downloads\add-master\Sos Vicios\obj\Debug\Sos Vicios.csproj.AssemblyReference.cache
+C:\Users\daniel\Downloads\add-master\Sos Vicios\obj\Debug\Sos_Vicios.Usuario.resources
+C:\Users\daniel\Downloads\add-master\Sos Vicios\obj\Debug\Sos_Vicios.frmLogin.resources
+C:\Users\daniel\Downloads\add-master\Sos Vicios\obj\Debug\Sos_Vicios.frmOngs.resources
+C:\Users\daniel\Downloads\add-master\Sos Vicios\obj\Debug\Sos_Vicios.frmMenu.resources
+C:\Users\daniel\Downloads\add-master\Sos Vicios\obj\Debug\Sos_Vicios.frmPesquisar.resources
+C:\Users\daniel\Downloads\add-master\Sos Vicios\obj\Debug\Sos_Vicios.Properties.Resources.resources
+C:\Users\daniel\Downloads\add-master\Sos Vicios\obj\Debug\Sos Vicios.csproj.GenerateResource.cache
+C:\Users\daniel\Downloads\add-master\Sos Vicios\obj\Debug\Sos Vicios.csproj.CoreCompileInputs.cache
+C:\Users\daniel\Downloads\add-master\Sos Vicios\obj\Debug\Sos Vicios.csproj.CopyComplete
+C:\Users\daniel\Downloads\add-master\Sos Vicios\obj\Debug\Sos Vicios.exe
+C:\Users\daniel\Downloads\add-master\Sos Vicios\obj\Debug\Sos Vicios.pdb
+C:\Users\daniel\Documents\Visual Studio 2019\add-master\Sos Vicios\bin\Debug\Sos Vicios.exe.config
+C:\Users\daniel\Documents\Visual Studio 2019\add-master\Sos Vicios\bin\Debug\Sos Vicios.exe
+C:\Users\daniel\Documents\Visual Studio 2019\add-master\Sos Vicios\bin\Debug\Sos Vicios.pdb
+C:\Users\daniel\Documents\Visual Studio 2019\add-master\Sos Vicios\bin\Debug\MySqlConnector.dll
+C:\Users\daniel\Documents\Visual Studio 2019\add-master\Sos Vicios\bin\Debug\System.Buffers.dll
+C:\Users\daniel\Documents\Visual Studio 2019\add-master\Sos Vicios\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\daniel\Documents\Visual Studio 2019\add-master\Sos Vicios\bin\Debug\System.Memory.dll
+C:\Users\daniel\Documents\Visual Studio 2019\add-master\Sos Vicios\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\daniel\Documents\Visual Studio 2019\add-master\Sos Vicios\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\daniel\Documents\Visual Studio 2019\add-master\Sos Vicios\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\daniel\Documents\Visual Studio 2019\add-master\Sos Vicios\bin\Debug\MySqlConnector.xml
+C:\Users\daniel\Documents\Visual Studio 2019\add-master\Sos Vicios\bin\Debug\System.Buffers.xml
+C:\Users\daniel\Documents\Visual Studio 2019\add-master\Sos Vicios\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\daniel\Documents\Visual Studio 2019\add-master\Sos Vicios\bin\Debug\System.Memory.xml
+C:\Users\daniel\Documents\Visual Studio 2019\add-master\Sos Vicios\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\daniel\Documents\Visual Studio 2019\add-master\Sos Vicios\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\daniel\Documents\Visual Studio 2019\add-master\Sos Vicios\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\daniel\Documents\Visual Studio 2019\add-master\Sos Vicios\obj\Debug\Sos Vicios.csproj.AssemblyReference.cache
+C:\Users\daniel\Documents\Visual Studio 2019\add-master\Sos Vicios\obj\Debug\Sos_Vicios.frmLogin.resources
+C:\Users\daniel\Documents\Visual Studio 2019\add-master\Sos Vicios\obj\Debug\Sos_Vicios.frmOngs.resources
+C:\Users\daniel\Documents\Visual Studio 2019\add-master\Sos Vicios\obj\Debug\Sos_Vicios.frmMenu.resources
+C:\Users\daniel\Documents\Visual Studio 2019\add-master\Sos Vicios\obj\Debug\Sos_Vicios.frmPesquisar.resources
+C:\Users\daniel\Documents\Visual Studio 2019\add-master\Sos Vicios\obj\Debug\Sos_Vicios.Properties.Resources.resources
+C:\Users\daniel\Documents\Visual Studio 2019\add-master\Sos Vicios\obj\Debug\Sos Vicios.csproj.GenerateResource.cache
+C:\Users\daniel\Documents\Visual Studio 2019\add-master\Sos Vicios\obj\Debug\Sos Vicios.csproj.CoreCompileInputs.cache
+C:\Users\daniel\Documents\Visual Studio 2019\add-master\Sos Vicios\obj\Debug\Sos Vicios.csproj.CopyComplete
+C:\Users\daniel\Documents\Visual Studio 2019\add-master\Sos Vicios\obj\Debug\Sos Vicios.exe
+C:\Users\daniel\Documents\Visual Studio 2019\add-master\Sos Vicios\obj\Debug\Sos Vicios.pdb
+C:\Users\daniel\Documents\Visual Studio 2019\add-master\Sos Vicios\obj\Debug\Sos_Vicios.frmMenuADM.resources
+C:\Users\daniel\Documents\Visual Studio 2019\add-master\Sos Vicios\obj\Debug\Sos_Vicios.frmUsuario.resources
+C:\Users\daniel\Documents\Visual Studio 2019\add-master\Sos Vicios\obj\Debug\Sos_Vicios.frmPesquisaFuncionario.resources
+C:\Users\daniel\Documents\Visual Studio 2019\add-master\Sos Vicios\obj\Debug\Sos_Vicios.frmPesquisaUsuario.resources
+C:\Users\gabriel.ssilva155\Documents\Visual Studio 2019\novo-sosvicios\Sos Vicios\bin\Debug\Sos Vicios.exe.config
+C:\Users\gabriel.ssilva155\Documents\Visual Studio 2019\novo-sosvicios\Sos Vicios\bin\Debug\Sos Vicios.exe
+C:\Users\gabriel.ssilva155\Documents\Visual Studio 2019\novo-sosvicios\Sos Vicios\bin\Debug\Sos Vicios.pdb
+C:\Users\gabriel.ssilva155\Documents\Visual Studio 2019\novo-sosvicios\Sos Vicios\bin\Debug\MySqlConnector.dll
+C:\Users\gabriel.ssilva155\Documents\Visual Studio 2019\novo-sosvicios\Sos Vicios\bin\Debug\System.Buffers.dll
+C:\Users\gabriel.ssilva155\Documents\Visual Studio 2019\novo-sosvicios\Sos Vicios\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\gabriel.ssilva155\Documents\Visual Studio 2019\novo-sosvicios\Sos Vicios\bin\Debug\System.Memory.dll
+C:\Users\gabriel.ssilva155\Documents\Visual Studio 2019\novo-sosvicios\Sos Vicios\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\gabriel.ssilva155\Documents\Visual Studio 2019\novo-sosvicios\Sos Vicios\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\gabriel.ssilva155\Documents\Visual Studio 2019\novo-sosvicios\Sos Vicios\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\gabriel.ssilva155\Documents\Visual Studio 2019\novo-sosvicios\Sos Vicios\bin\Debug\MySqlConnector.xml
+C:\Users\gabriel.ssilva155\Documents\Visual Studio 2019\novo-sosvicios\Sos Vicios\bin\Debug\System.Buffers.xml
+C:\Users\gabriel.ssilva155\Documents\Visual Studio 2019\novo-sosvicios\Sos Vicios\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\gabriel.ssilva155\Documents\Visual Studio 2019\novo-sosvicios\Sos Vicios\bin\Debug\System.Memory.xml
+C:\Users\gabriel.ssilva155\Documents\Visual Studio 2019\novo-sosvicios\Sos Vicios\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\gabriel.ssilva155\Documents\Visual Studio 2019\novo-sosvicios\Sos Vicios\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\gabriel.ssilva155\Documents\Visual Studio 2019\novo-sosvicios\Sos Vicios\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\gabriel.ssilva155\Documents\Visual Studio 2019\novo-sosvicios\Sos Vicios\obj\Debug\Sos Vicios.csproj.AssemblyReference.cache
+C:\Users\gabriel.ssilva155\Documents\Visual Studio 2019\novo-sosvicios\Sos Vicios\obj\Debug\Sos_Vicios.frmMenuADM.resources
+C:\Users\gabriel.ssilva155\Documents\Visual Studio 2019\novo-sosvicios\Sos Vicios\obj\Debug\Sos_Vicios.frmPesquisaFuncionario.resources
+C:\Users\gabriel.ssilva155\Documents\Visual Studio 2019\novo-sosvicios\Sos Vicios\obj\Debug\Sos_Vicios.frmPesquisaUsuario.resources
+C:\Users\gabriel.ssilva155\Documents\Visual Studio 2019\novo-sosvicios\Sos Vicios\obj\Debug\Sos_Vicios.frmUsuario.resources
+C:\Users\gabriel.ssilva155\Documents\Visual Studio 2019\novo-sosvicios\Sos Vicios\obj\Debug\Sos_Vicios.frmLogin.resources
+C:\Users\gabriel.ssilva155\Documents\Visual Studio 2019\novo-sosvicios\Sos Vicios\obj\Debug\Sos_Vicios.frmOngs.resources
+C:\Users\gabriel.ssilva155\Documents\Visual Studio 2019\novo-sosvicios\Sos Vicios\obj\Debug\Sos_Vicios.frmMenu.resources
+C:\Users\gabriel.ssilva155\Documents\Visual Studio 2019\novo-sosvicios\Sos Vicios\obj\Debug\Sos_Vicios.frmPesquisar.resources
+C:\Users\gabriel.ssilva155\Documents\Visual Studio 2019\novo-sosvicios\Sos Vicios\obj\Debug\Sos_Vicios.Properties.Resources.resources
+C:\Users\gabriel.ssilva155\Documents\Visual Studio 2019\novo-sosvicios\Sos Vicios\obj\Debug\Sos Vicios.csproj.GenerateResource.cache
+C:\Users\gabriel.ssilva155\Documents\Visual Studio 2019\novo-sosvicios\Sos Vicios\obj\Debug\Sos Vicios.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.ssilva155\Documents\Visual Studio 2019\novo-sosvicios\Sos Vicios\obj\Debug\Sos Vicios.csproj.CopyComplete
+C:\Users\gabriel.ssilva155\Documents\Visual Studio 2019\novo-sosvicios\Sos Vicios\obj\Debug\Sos Vicios.exe
+C:\Users\gabriel.ssilva155\Documents\Visual Studio 2019\novo-sosvicios\Sos Vicios\obj\Debug\Sos Vicios.pdb
+C:\Users\gabriel.ssilva155\Documents\Visual Studio 2019\novo-sosvicios\Sos Vicios\obj\Debug\Sos_Vicios.frmfuncionario.resources
+C:\Users\daniel\Documents\Visual Studio 2019\novo-master\Sos Vicios\bin\Debug\Sos Vicios.exe.config
+C:\Users\daniel\Documents\Visual Studio 2019\novo-master\Sos Vicios\bin\Debug\Sos Vicios.exe
+C:\Users\daniel\Documents\Visual Studio 2019\novo-master\Sos Vicios\bin\Debug\Sos Vicios.pdb
+C:\Users\daniel\Documents\Visual Studio 2019\novo-master\Sos Vicios\bin\Debug\MySqlConnector.dll
+C:\Users\daniel\Documents\Visual Studio 2019\novo-master\Sos Vicios\bin\Debug\System.Buffers.dll
+C:\Users\daniel\Documents\Visual Studio 2019\novo-master\Sos Vicios\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\daniel\Documents\Visual Studio 2019\novo-master\Sos Vicios\bin\Debug\System.Memory.dll
+C:\Users\daniel\Documents\Visual Studio 2019\novo-master\Sos Vicios\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\daniel\Documents\Visual Studio 2019\novo-master\Sos Vicios\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\daniel\Documents\Visual Studio 2019\novo-master\Sos Vicios\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\daniel\Documents\Visual Studio 2019\novo-master\Sos Vicios\bin\Debug\MySqlConnector.xml
+C:\Users\daniel\Documents\Visual Studio 2019\novo-master\Sos Vicios\bin\Debug\System.Buffers.xml
+C:\Users\daniel\Documents\Visual Studio 2019\novo-master\Sos Vicios\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\daniel\Documents\Visual Studio 2019\novo-master\Sos Vicios\bin\Debug\System.Memory.xml
+C:\Users\daniel\Documents\Visual Studio 2019\novo-master\Sos Vicios\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\daniel\Documents\Visual Studio 2019\novo-master\Sos Vicios\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\daniel\Documents\Visual Studio 2019\novo-master\Sos Vicios\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\daniel\Documents\Visual Studio 2019\novo-master\Sos Vicios\obj\Debug\Sos Vicios.csproj.AssemblyReference.cache
+C:\Users\daniel\Documents\Visual Studio 2019\novo-master\Sos Vicios\obj\Debug\Sos_Vicios.frmfuncionario.resources
+C:\Users\daniel\Documents\Visual Studio 2019\novo-master\Sos Vicios\obj\Debug\Sos_Vicios.frmMenuADM.resources
+C:\Users\daniel\Documents\Visual Studio 2019\novo-master\Sos Vicios\obj\Debug\Sos_Vicios.frmPesquisaFuncionario.resources
+C:\Users\daniel\Documents\Visual Studio 2019\novo-master\Sos Vicios\obj\Debug\Sos_Vicios.frmPesquisaUsuario.resources
+C:\Users\daniel\Documents\Visual Studio 2019\novo-master\Sos Vicios\obj\Debug\Sos_Vicios.frmUsuario.resources
+C:\Users\daniel\Documents\Visual Studio 2019\novo-master\Sos Vicios\obj\Debug\Sos_Vicios.frmLogin.resources
+C:\Users\daniel\Documents\Visual Studio 2019\novo-master\Sos Vicios\obj\Debug\Sos_Vicios.frmOngs.resources
+C:\Users\daniel\Documents\Visual Studio 2019\novo-master\Sos Vicios\obj\Debug\Sos_Vicios.frmMenu.resources
+C:\Users\daniel\Documents\Visual Studio 2019\novo-master\Sos Vicios\obj\Debug\Sos_Vicios.frmPesquisar.resources
+C:\Users\daniel\Documents\Visual Studio 2019\novo-master\Sos Vicios\obj\Debug\Sos_Vicios.Properties.Resources.resources
+C:\Users\daniel\Documents\Visual Studio 2019\novo-master\Sos Vicios\obj\Debug\Sos Vicios.csproj.GenerateResource.cache
+C:\Users\daniel\Documents\Visual Studio 2019\novo-master\Sos Vicios\obj\Debug\Sos Vicios.csproj.CoreCompileInputs.cache
+C:\Users\daniel\Documents\Visual Studio 2019\novo-master\Sos Vicios\obj\Debug\Sos Vicios.csproj.CopyComplete
+C:\Users\daniel\Documents\Visual Studio 2019\novo-master\Sos Vicios\obj\Debug\Sos Vicios.exe
+C:\Users\daniel\Documents\Visual Studio 2019\novo-master\Sos Vicios\obj\Debug\Sos Vicios.pdb
+C:\Users\gabriel.ssilva155\Documents\Visual Studio 2019\novo-master\Sos Vicios\bin\Debug\Sos Vicios.exe.config
+C:\Users\gabriel.ssilva155\Documents\Visual Studio 2019\novo-master\Sos Vicios\bin\Debug\Sos Vicios.exe
+C:\Users\gabriel.ssilva155\Documents\Visual Studio 2019\novo-master\Sos Vicios\bin\Debug\Sos Vicios.pdb
+C:\Users\gabriel.ssilva155\Documents\Visual Studio 2019\novo-master\Sos Vicios\bin\Debug\MySqlConnector.dll
+C:\Users\gabriel.ssilva155\Documents\Visual Studio 2019\novo-master\Sos Vicios\bin\Debug\System.Buffers.dll
+C:\Users\gabriel.ssilva155\Documents\Visual Studio 2019\novo-master\Sos Vicios\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\gabriel.ssilva155\Documents\Visual Studio 2019\novo-master\Sos Vicios\bin\Debug\System.Memory.dll
+C:\Users\gabriel.ssilva155\Documents\Visual Studio 2019\novo-master\Sos Vicios\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\gabriel.ssilva155\Documents\Visual Studio 2019\novo-master\Sos Vicios\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\gabriel.ssilva155\Documents\Visual Studio 2019\novo-master\Sos Vicios\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\gabriel.ssilva155\Documents\Visual Studio 2019\novo-master\Sos Vicios\bin\Debug\MySqlConnector.xml
+C:\Users\gabriel.ssilva155\Documents\Visual Studio 2019\novo-master\Sos Vicios\bin\Debug\System.Buffers.xml
+C:\Users\gabriel.ssilva155\Documents\Visual Studio 2019\novo-master\Sos Vicios\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\gabriel.ssilva155\Documents\Visual Studio 2019\novo-master\Sos Vicios\bin\Debug\System.Memory.xml
+C:\Users\gabriel.ssilva155\Documents\Visual Studio 2019\novo-master\Sos Vicios\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\gabriel.ssilva155\Documents\Visual Studio 2019\novo-master\Sos Vicios\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\gabriel.ssilva155\Documents\Visual Studio 2019\novo-master\Sos Vicios\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\gabriel.ssilva155\Documents\Visual Studio 2019\novo-master\Sos Vicios\obj\Debug\Sos Vicios.csproj.AssemblyReference.cache
+C:\Users\gabriel.ssilva155\Documents\Visual Studio 2019\novo-master\Sos Vicios\obj\Debug\Sos_Vicios.frmfuncionario.resources
+C:\Users\gabriel.ssilva155\Documents\Visual Studio 2019\novo-master\Sos Vicios\obj\Debug\Sos_Vicios.frmMenuADM.resources
+C:\Users\gabriel.ssilva155\Documents\Visual Studio 2019\novo-master\Sos Vicios\obj\Debug\Sos_Vicios.frmPesquisaFuncionario.resources
+C:\Users\gabriel.ssilva155\Documents\Visual Studio 2019\novo-master\Sos Vicios\obj\Debug\Sos_Vicios.frmPesquisaUsuario.resources
+C:\Users\gabriel.ssilva155\Documents\Visual Studio 2019\novo-master\Sos Vicios\obj\Debug\Sos_Vicios.frmUsuario.resources
+C:\Users\gabriel.ssilva155\Documents\Visual Studio 2019\novo-master\Sos Vicios\obj\Debug\Sos_Vicios.frmLogin.resources
+C:\Users\gabriel.ssilva155\Documents\Visual Studio 2019\novo-master\Sos Vicios\obj\Debug\Sos_Vicios.frmOngs.resources
+C:\Users\gabriel.ssilva155\Documents\Visual Studio 2019\novo-master\Sos Vicios\obj\Debug\Sos_Vicios.frmMenu.resources
+C:\Users\gabriel.ssilva155\Documents\Visual Studio 2019\novo-master\Sos Vicios\obj\Debug\Sos_Vicios.frmPesquisar.resources
+C:\Users\gabriel.ssilva155\Documents\Visual Studio 2019\novo-master\Sos Vicios\obj\Debug\Sos_Vicios.Properties.Resources.resources
+C:\Users\gabriel.ssilva155\Documents\Visual Studio 2019\novo-master\Sos Vicios\obj\Debug\Sos Vicios.csproj.GenerateResource.cache
+C:\Users\gabriel.ssilva155\Documents\Visual Studio 2019\novo-master\Sos Vicios\obj\Debug\Sos Vicios.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.ssilva155\Documents\Visual Studio 2019\novo-master\Sos Vicios\obj\Debug\Sos Vicios.csproj.CopyComplete
+C:\Users\gabriel.ssilva155\Documents\Visual Studio 2019\novo-master\Sos Vicios\obj\Debug\Sos Vicios.exe
+C:\Users\gabriel.ssilva155\Documents\Visual Studio 2019\novo-master\Sos Vicios\obj\Debug\Sos Vicios.pdb
